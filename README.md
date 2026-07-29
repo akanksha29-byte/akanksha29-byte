@@ -27,7 +27,7 @@
       .-[_______]-[_______]-[_______]-.
 </code></pre>
 
-  <h3 align="center"> ＞_ ＦＲＯＮＴＥＮＤ_ＡＲＣＨＩＴＥＣＴ ｜ ５ ＹＥＡＲＳ ＢＵＩＬＤＩＮＧ ＷＥＢ ＭＡＴＲＩＣＥＳ 🦾 </h3>
+  <h3 align="center"> ＞_ WEB DEVELOPER ｜ ５ YEARS BUILDING WEB ＭATRICS 🦾 </h3>
 
   <p align="center">
     I turn complex algorithms into sleek, high-performance UI experiences. 🔌 I thrive deep in the web ecosystem, optimizing performance, executing clean code, and deploying scalable applications from the ground up to conquer the digital frontier. 🌐
