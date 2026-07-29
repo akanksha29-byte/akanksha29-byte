@@ -7,7 +7,7 @@
     <a href="mailto:akanksha.ghildiyal2@gmail.com">
       <img src="https://img.shields.io/badge/COMMLINK-EMAIL-FF0055?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://linkedin.com/in/akanksha">
+    <a href="[https://linkedin.com/in/akanksha](https://www.linkedin.com/in/akanksha-ghildiyal-85963b172/)">
       <img src="https://img.shields.io/badge/NEURAL_NET-LINKEDIN-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
     </a>
     <a href="https://github.com/akanksha29-byte">
