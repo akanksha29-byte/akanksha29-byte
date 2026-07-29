@@ -25,13 +25,13 @@ I love turning complex problems into elegant, user-friendly web solutions! 💖 
 ✧･ﾟ: *✧･ﾟ:* ━━━━━━━━━━━━━━━━━━━━━━━ *:･ﾟ✧*:･ﾟ✧
 
 ### 💽 < ＭＹ_ＴＥＣＨ_ＡＲＳＥＮＡＬ /> 💽
-<p align="left">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+<p align="center">
+  <img src="https://img.shields.io/badge/react-00FFFF.svg?style=plastic&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-C0C0C0.svg?style=plastic&logo=next.js&logoColor=black" alt="Next.js" />
+  <img src="https://img.shields.io/badge/typescript-9400D3.svg?style=plastic&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/MongoDB-FFD700.svg?style=plastic&logo=mongodb&logoColor=black" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/express.js-FF69B4.svg?style=plastic&logo=express&logoColor=black" alt="Express.js" />
+  <img src="https://img.shields.io/badge/node.js-FF1493.svg?style=plastic&logo=node.js&logoColor=white" alt="Node.js" />
 </p>
 
 ✧･ﾟ: *✧･ﾟ:* ━━━━━━━━━━━━━━━━━━━━━━━ *:･ﾟ✧*:･ﾟ✧
