@@ -16,7 +16,7 @@
     [___________]
 ```
 
-<h3 align="center"> ⋆ ˚｡⋆୨୧˚ 𝓘'𝓶 𝓪 𝓕𝓻𝓸𝓷𝓽𝓮𝓷𝓭 𝓢𝓸𝓯𝓽𝔀𝓪𝓻𝓮 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻 𝔀𝓲𝓽𝓱 5 𝔂𝓮𝓪𝓻𝓼 𝓸𝓯 𝓮𝔁𝓹𝓮𝓻𝓲𝓮𝓷𝓬𝓮 🚀 ˚୨୧⋆｡˚ ⋆ </h3>
+<h3 align="center"> ⋆ ˚｡⋆୨୧˚ 𝙸'𝚖 𝚊 𝙵𝚛𝚘𝚗𝚝𝚎𝚗𝚍 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛, 𝟻 𝚢𝚎𝚊𝚛𝚜 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚠𝚎𝚋 𝚖𝚊𝚐𝚒𝚌 🚀 ˚୨୧⋆｡˚ ⋆ </h3>
 
 <p align="center">
 I love turning complex problems into elegant, user-friendly web solutions! 💖 I enjoy getting deep into the weeds of the web ecosystem, optimizing performance, and building scalable applications from the ground up (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
